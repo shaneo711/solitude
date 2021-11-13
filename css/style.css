@@ -1,0 +1,71 @@
+h1 {
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#banner p {
+	font-size: 22px;
+	padding: 10px 0;
+}
+
+.nav {
+	background-color: white;
+}
+
+.navbar {
+	display: flex;
+	font-family: Montserrat;
+	vertical-align: center;
+	align-content: center;
+	margin-top: 30px;
+	background-color: white;
+	line-height: 50px;
+}
+
+#navbar p {
+	display: flex;
+	text-align: right;
+}
+
+#banner {
+	background-image: url("https://picsum.photos/id/1021/1500/500");
+	background-size: cover;
+	text-align: center;
+	padding: 120px 0;
+	align-content: center;
+	color: whitesmoke;
+	margin-bottom: 35px;
+	margin-top: 15px;
+}
+
+.btn-primary {
+	background-color: gray;
+	border-color: #9B9B9B;
+}
+
+.btn-primary:hover {
+	background-color: #AFAFAF;
+	border-color: whitesmoke;
+}
+
+.nav-item {
+	align-content: center;
+	padding:  0 10px;
+	vertical-align: center;
+	;
+}
+
+.btn-secondary {
+	background-color: gray;
+	border-color: #9b9b9b;
+}
+
+.btn-secondary:hover {
+	background-color: #AFAFAF;
+	border-color: whitesmoke;
+}
+
+#get-started {
+	color: white;
+}
